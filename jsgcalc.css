@@ -145,6 +145,8 @@ hr{
     margin: 1px 0px;
     font-family: "Droid Serif", "Georgia", serif;
     font-size: 12pt;
+    width: 107%;
+    margin-left: -12%;
 }
 
 .active_equation {
